@@ -1,7 +1,8 @@
 scipy
-matplotlib
+matplotlib=2.2.3
 jupyter
 sphinx
 numpydoc
 flake8
 pytest
+seaborn
